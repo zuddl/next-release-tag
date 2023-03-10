@@ -1,4 +1,4 @@
-# Generate Next Release Tag
+# Zuddl - Generate Next Release Tag
 
 - A GitHub Action to automate the process of creating the next release tag version for your repository. Note: this only generates a new release version instead of creating a new release.
 - This action will set an output variable named `release_tag` which can then be used to create the next release.
